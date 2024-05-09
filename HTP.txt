@@ -1,0 +1,9 @@
+Archer's dungeon is a text based dungeon game about an archer clearing out dungeons. In the game you can upgrade your stats by finding 
+upgrade scrolls from bosses. With an upgrade scroll there are 5 stats health, armor, bow strength, accuracy.
+
+The shop is where you buy health potions and arrows. You'll be able to buy normal arrows in the shop but you can find stronger arrows 
+defeating enemies and in chests. Health potions come in weak, average, and strong all healing different amounts of health.
+
+A dungeon is complete when the character leaves through the entrance or runs out of health. The player is allowed to leave the dungeon
+at any time though they will not be able to go into the same dungeon again. If the player leaves by running out of health then money 
+will be deducted from their account and they will end up back in the village. 
